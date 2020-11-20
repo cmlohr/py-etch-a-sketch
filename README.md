@@ -1,1 +1,1 @@
-py-etch-a-sketch
+Python Based Etch-a-Sketch game
